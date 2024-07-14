@@ -1,0 +1,14 @@
+{
+    "name": "NAME",
+    "email": "EMAIL",
+    "phone": "PHONE NUMBER",
+    "current_company": "CURRENT COMPANY",
+    "resume_path": "PATH TO RESUME",
+    "sponsor": "NEED SPONSORSHIP",
+    "authorized": "AUTHORIZED TO WORK AT LOCATION",
+    "location": "LOCATION",
+    "gender": "GENDER",
+    "veteran_status": "VET STATUS",
+    "race": "RACE",
+    "linkedin": "URL"
+}
